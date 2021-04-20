@@ -16,6 +16,8 @@ calculating between number systems (e.g. from base 10 to base 16)
 dynamically setting DOM elements' colors with JavaScript
 validating number input fields with built-in html validation
 transparent colors
+
+
 #Tasks
 Validate input fields
 
